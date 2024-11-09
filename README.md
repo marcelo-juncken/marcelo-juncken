@@ -1,6 +1,6 @@
 # Olá, sou Marcelo Juncken! 👋
 
-Sou um desenvolvedor dedicado a me tornar um **Desenvolvedor Web Fullstack**. Sou apaixonado em programação, passo meu tempo livre estudando e estou sempre tentando expandir meu conhecimento. Tenho experiência na criação de aplicações funcionais, intuitivas e focadas na experiência do usuário, buscando sempre utilizar clean code nos projetos. 
+Sou um desenvolvedor dedicado a me tornar um **Desenvolvedor Web Fullstack**. Sou apaixonado por programação, passo meu tempo livre estudando e estou sempre tentando expandir meu conhecimento. Tenho experiência na criação de aplicações funcionais, intuitivas e focadas na experiência do usuário, buscando sempre utilizar clean code nos projetos. 
 
 ## 💻 Tecnologias e Ferramentas
 
