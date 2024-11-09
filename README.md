@@ -1,6 +1,6 @@
 # Olá, sou Marcelo Juncken! 👋
 
-Sou um **Desenvolvedor Web Fullstack** e **Desenvolvedor Mobile**, apaixonado por criar soluções eficazes e inovadoras usando tecnologias modernas e clean code. Tenho experiência em desenvolver aplicações web e móveis que são não apenas funcionais, mas também intuitivas e agradáveis de usar.
+Sou um desenvolvedor dedicado a me tornar um **Desenvolvedor Web Fullstack**. Sou apaixonado em programação, passo meu tempo livre estudando e estou sempre tentando expandir meu conhecimento. Tenho experiência na criação de aplicações funcionais, intuitivas e focadas na experiência do usuário, buscando sempre utilizar clean code nos projetos. 
 
 ## 💻 Tecnologias e Ferramentas
 
@@ -44,7 +44,7 @@ Me especializo nas seguintes tecnologias e ferramentas:
   
 ## :rocket: Projeto Empresarial
 
-Desenvolvi um projeto completo para uma empresa, atuando de forma independente e aplicando uma ampla gama de tecnologias e práticas de engenharia de software para entregar uma solução robusta e modular. Este projeto abrange desde a gestão de dependências até a integração com sistemas externos e autenticação segura.
+Desenvolvi um projeto completo para uma empresa, atuando de forma independente e aplicando diversos conhecimentos. Este projeto abrange desde a gestão de dependências até a integração com sistemas externos e autenticação segura.
 
 ### Tecnologias e Ferramentas Utilizadas
 - **Kotlin**: Linguagem principal do projeto.
